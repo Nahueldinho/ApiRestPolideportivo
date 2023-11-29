@@ -41,4 +41,6 @@ public class Estado implements Serializable {
 		 this.tipo=tipo;
 	}
 
+	//dnfndklfnslnvclnkd
+
 }
